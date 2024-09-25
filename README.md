@@ -14,7 +14,7 @@ Burn Function: Decreases total supply and reduces the sender's balance, ensures 
 To run the file, you can use Remix, an online Solidity IDE, copy the contents or import the file to the online IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 ## Authors
-Genesis Dumallay
+Genesis Dumallay<br/>
 [Email me](mailto:202111019@gmail.com)
 
 ## License
