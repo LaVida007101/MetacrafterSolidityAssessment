@@ -4,10 +4,10 @@ A Solidity-based smart contract to create and manage a token, developed as part 
 ## Desription
 This project demonstrates the basic creation and management of a token using the Solidity programming language. The contract allows minting and burning tokens, tracking token balances, and managing the total supply.
 
-Public Token Details: Stores token name, abbreviation, and total supply.<br/>
-Address-to-Balance Mapping: Maps addresses to their respective token balances.<br/>
-Mint Function: Increases total supply and updates the sender's balance.<br/>
-Burn Function: Decreases total supply and reduces the sender's balance, ensures there are enough tokens to burn.<br/>
+* Public Token Details: Stores token name, abbreviation, and total supply.<br/>
+* Address-to-Balance Mapping: Maps addresses to their respective token balances.<br/>
+* Mint Function: Increases total supply and updates the sender's balance.<br/>
+* Burn Function: Decreases total supply and reduces the sender's balance, ensures there are enough tokens to burn.<br/>
 
 ## Getting Started
 ### Executing program
