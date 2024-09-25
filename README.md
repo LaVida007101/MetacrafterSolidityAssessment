@@ -11,7 +11,8 @@ This project demonstrates the basic creation and management of a token using the
 
 ## Getting Started
 ### Executing program
-To run the file, you can use Remix, an online Solidity IDE, copy the contents or import the file to the online IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
+To run the file, you can use Remix, an online Solidity IDE, copy the contents or import the file to the online IDE.<br/>
+To get started, go to the Remix website at https://remix.ethereum.org/.
 
 ## Authors
 Genesis Dumallay<br/>
