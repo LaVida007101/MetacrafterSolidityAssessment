@@ -19,4 +19,4 @@ Genesis Dumallay<br/>
 [202111019@fit.edu.ph](mailto:202111019@fit.edu.ph)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE file for details
